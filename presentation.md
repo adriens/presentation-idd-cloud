@@ -10,6 +10,7 @@ controls: true
 --
 # Développer dans le cloud en 1 WE
 ## Open source code, intégration/tests continus, packaging, déploiement
+### SALES Adrien, DSI Ville de Nouméa
 
 --
 # Contexte
@@ -19,7 +20,7 @@ controls: true
 * Un incident
 * Besoin commun SED/SIE de repos git
 * Collaboration prestation externe
-* Industrialisation du dev à l'arrêt
+* Industrialisation du dev en pause
 
 --
 # Contexte
@@ -78,7 +79,8 @@ sur notre svn (subversion)
 # Le départ 1/3
 ## Source code/github.com
 
-* git ? gestion décentralisée ?
+* git ?
+* gestion décentralisée ?
 * github.com ?
 * Départ sur github
 * Ecosystème github (services)
@@ -97,7 +99,7 @@ sur notre svn (subversion)
 ## Efficacité
 
 * Bascule svn/git effectuée en 5'
-* Collaboation/fork disponible dans la minute
+* Collaboration/fork disponible dans la minute
 
 --
 <img src="img/boost.gif" alt="Drawing" style="width: 1000px;"/>
