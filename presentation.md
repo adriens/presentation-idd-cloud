@@ -114,8 +114,6 @@ sur notre svn (subversion)
 #### Toute ressemblance ...
 <img src="img/Strip-SNCF-650-finalenglsih1.jpg" alt="Drawing" style="width: 375px;"/>
 
-
-
 --
 ## Le build continu
 * travis-ci.org
@@ -129,15 +127,36 @@ sur notre svn (subversion)
 * aperçu sur la qualité des PR
 
 --
+## Aperçu projet Github
+<img src="img/github_overview.png" alt="GitHub Overview" style="width: 1100px;"/>
+
+--
+## Aperçu Couverture du code
+<img src="img/coversall_overview.png" alt="Coversall Overview" style="width: 1100px;"/>
+
+--
+## Aperçu build Travis
+<img src="img/travis_overview.png" alt="Travis Overview" style="width: 1100px;"/>
+
+--
+## Aperçu Pull Request
+![Github Merge Pull Request](img/merge_pr_ok.png "Merge Pull Request")
+
+--
+## Aperçu Intégration Slack
+![Slack integration](img/integration_slack.png "Integration Slack")
+
+--
 ## Démo (Live !)
 
 * Aperçu projet github
 * Présentation shield et fichier Travis
 * Modif de code
 * Ouverture de Slack
-* Création de la PR (Thomas)
+* Création de la PR
 * Réception PR Merge
 * Merge
+* Monitoring build Travis
 * Revue activité slack
 
 --
