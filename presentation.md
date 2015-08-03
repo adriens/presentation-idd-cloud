@@ -1,5 +1,5 @@
 title: Développer dans le cloud en 1 WE
-output: presentation-idd-cloud.html
+output: index.html
 author:
   name: Adrien Sales
   twitter: rastadidi
