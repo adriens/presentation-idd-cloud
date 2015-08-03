@@ -158,6 +158,12 @@ sur notre svn (subversion)
 * Revue activité slack
 
 --
+## Reste à faire
+
+* Uploader les artefacts sur la repo centrale nexus depuis Travis
+* Intégrer les checks de qualité de code
+
+--
 ### Outils
 
 * [Atom](https://atom.io/)
@@ -167,4 +173,4 @@ sur notre svn (subversion)
 * FF/Chrome
 
 --
-### Le graal
+### Questions/Réponses
