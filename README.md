@@ -13,3 +13,15 @@ applications, dans un contexte orienté SaaS en utilisant des produits du cloud.
 Pour générer la présentation de manière à ce qu'elle puisse être éditée de
 manière collaborative (en markdown), j'ai utilisé npm et plus
 précisèment https://github.com/jdan/cleaver.
+
+# Builder la présentation
+
+Installer [cleaver](https://github.com/jdan/cleaver)
+
+Cloner la repo :
+
+  git clone https://github.com/adriens/presentation-idd-cloud.git
+
+Builder la présentation :
+
+  cleaver presentation.md
