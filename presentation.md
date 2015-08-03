@@ -18,9 +18,9 @@ controls: true
 
 * Utilisation de [ZK](http://www.zkoss.org)
 * Un incident
-* Besoin commun SED/SIE de repos git
+* Besoin commun SED/SIE de repos. git
 * Collaboration prestation externe
-* Industrialisation du dev en pause
+* Industrialisation du dev en pause faut de dispo infra
 
 --
 # Contexte
@@ -47,8 +47,6 @@ rapidement afin de disposer de la license [ZOL](http://www.zkoss.org/license#zol
 
 --
 # Opportunités 1/2
-
- Exploiter :
 
 * le travail de fondations effectuée depuis 5 ans
 * des compétences non encore utilisées
@@ -102,7 +100,7 @@ sur notre svn (subversion)
 * Collaboration/fork disponible dans la minute
 
 --
-<img src="img/boost.gif" alt="Drawing" style="width: 1000px;"/>
+<img src="img/boost.gif" alt="Drawing" style="width: 1600px;"/>
 ## Sensations...
 
 
@@ -124,7 +122,7 @@ sur notre svn (subversion)
 * encrytpion des données perso
 * la console
 * languages : java, puppet, python, ruby,  ...
-* aperçu sur la qualité des PR
+* aperçu sur la qualité des PR intégrée à github
 
 --
 ## Aperçu projet Github
@@ -162,9 +160,7 @@ sur notre svn (subversion)
 --
 ### Outils
 
-* vim
 * [Atom](https://atom.io/)
-* npm
 * https://github.com/jdan/cleaver
 * github
 * cleaver
