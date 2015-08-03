@@ -16,12 +16,6 @@ précisèment https://github.com/jdan/cleaver.
 
 # Builder la présentation
 
-Installer [cleaver](https://github.com/jdan/cleaver)
-
-Cloner la repo :
-
-  git clone https://github.com/adriens/presentation-idd-cloud.git
-
-Builder la présentation :
-
-  cleaver presentation.md
+1. Installer [cleaver](https://github.com/jdan/cleaver)
+2. Cloner la repo : `git clone https://github.com/adriens/presentation-idd-cloud.git`
+3. Builder la présentation : `cleaver presentation.md`
