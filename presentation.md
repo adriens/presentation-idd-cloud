@@ -63,8 +63,6 @@ sur notre svn (subversion)
 --
 ![git definition](img/git_definition.png "Définition de git")
 
-> There are 10.3M people collaborating right now across 25.2M repositories on GitHub. Developers from all around the world are building amazing things together. Their story is our story.
-
 --
 ![Github social coding](img/githuboctocat.jpeg "Social coding")
 
