@@ -61,6 +61,16 @@ rapidement afin de disposer de la license [ZOL](http://www.zkoss.org/license#zol
 sur notre svn (subversion)
 
 --
+![maven](img/maven-logo-black-on-white.png "Maven")
+
+* fondation apache
+* project object model (POM)
+* builder quoi : jar, war, .deb, .rpm
+* tester, déployer
+* site web, reporting, documentation
+* orchestration complète chaîne de build
+
+--
 ![git definition](img/git_definition.png "Définition de git")
 
 --
@@ -68,10 +78,7 @@ sur notre svn (subversion)
 
 > There are 10.3M people collaborating right now across 25.2M repositories on GitHub. Developers from all around the world are building amazing things together. Their story is our story.
 
-
-
 --
-
 # Le départ 1/3
 ## Source code/github.com
 
