@@ -118,6 +118,16 @@ sur notre svn (subversion)
 <img src="img/Strip-SNCF-650-finalenglsih1.jpg" alt="Drawing" style="width: 375px;"/>
 
 --
+### SNCF (attirer les talents) 1/2
+
+> Aujourd’hui, CommitStrip accueille un nouveau parrain qui recrute à grande vitesse, c’est Voyages-sncf.com ! A vrai dire, on ne s’attendait pas à découvrir une usine logicielle aussi développée et moderne : culture DevOps très présente, automatisations avec des solutions très actuelles comme Jenkins, Maven, SonarQube, Cucumber, et déploiements agiles avec Puppet et Rundeck. Pas mal non ?
+
+--
+### SNCF (attirer les talents) 2/2
+
+> Sachant qu’ils gèrent des gros volumes de data, ce ne sont pas les challenges techniques qui doivent manquer. Alors, n’hésitez pas à jeter un oeil à leurs offres d’emploi sur CommitStrip Jobs (Développeur JavaEE, Analyse consultant fonctionnel, Chef de projet technique), à Paris, Lille ou Nantes (vive l’ouest !).
+
+--
 ## Le build continu
 * travis-ci.org
 * coût 0 pour open source
