@@ -8,6 +8,14 @@ industrialisation classique des dévelopements. Le but est de montrer,
 sur des exemples pratiques comment builder, packager, distribuer des
 applications, dans un contexte orienté SaaS en utilisant des produits du cloud.
 
+# Audience cible
+
+Cette présentation s'adresse à un public non développeur et a
+pour vocation à présenter les concepts et l'écosystème.
+
+En aucun cas il ne s'agit d'une présentation exhaustive, le but est de pouvoir,
+à terme, partager un minimum de language commun au sein de la DSI.
+
 # Outil de présentation
 
 Pour générer la présentation de manière à ce qu'elle puisse être éditée de
