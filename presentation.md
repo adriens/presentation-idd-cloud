@@ -98,7 +98,7 @@ sur notre svn (subversion)
 * gestion décentralisée ?
 * github.com ?
 * Départ sur github
-* Ecosystème github (services)
+* Ecosystème github (services) : https://github.com/integrations
 * Les types de sources (java, md, geojson, STL, ...), toujours plus de viewers
 * exemple : https://github.com/johan/world.geo.json/blob/master/countries/NCL.geo.json
 
