@@ -100,7 +100,7 @@ sur notre svn (subversion)
 * Départ sur github
 * Ecosystème github (services)
 * Les types de sources (java, md, geojson, STL, ...), toujours plus de viewers
-* exemple : https://github.com/johan/world.geo.json/blob/master/countries/FRA.geo.json
+* exemple : https://github.com/johan/world.geo.json/blob/master/countries/NCL.geo.json
 
 --
 # Le départ 2/3
