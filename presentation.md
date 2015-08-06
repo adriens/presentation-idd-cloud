@@ -71,6 +71,18 @@ sur notre svn (subversion)
 * orchestration complète chaîne de build
 
 --
+# Source vs binaires
+
+* Collaborer sur le source
+* types de source
+* "du plain text, partout !"
+* types de binaires (jar, war, .deb, .rpm, .zip, docker)
+* les repos de binaires
+* les repos de sources
+
+
+
+--
 ![git definition](img/git_definition.png "Définition de git")
 
 --
