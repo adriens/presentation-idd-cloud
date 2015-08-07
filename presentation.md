@@ -174,6 +174,10 @@ sur notre svn (subversion)
 ![Slack integration](img/integration_slack.png "Integration Slack")
 
 --
+## Aperçu Intégration Redmine
+![Redmine integration](img/integration_redmine.png "Integration Redmine")
+
+--
 ## Démo (Live !)
 
 * Aperçu projet github
