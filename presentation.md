@@ -1,5 +1,6 @@
 title: Développer dans le cloud en 1 WE
 output: index.html
+theme: sudodoki/reveal-cleaver-theme
 author:
   name: Adrien Sales
   twitter: rastadidi
