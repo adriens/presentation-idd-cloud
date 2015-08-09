@@ -155,6 +155,11 @@ sur notre svn (subversion)
 * aperçu sur la qualité des PR intégrée à github
 
 --
+## Serveur de build chez Travus-CI
+
+We use dedicated hardware to ensure full speed for your tests. You have 3 GB of memory and up to 2 cores available. Your tests are running directly off SSDs with the most common databases optimized to run off RAM disks.
+
+--
 ## Aperçu projet Github
 <img src="img/github_overview.png" alt="GitHub Overview" style="width: 1100px;"/>
 
