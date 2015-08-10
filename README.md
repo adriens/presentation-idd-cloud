@@ -1,5 +1,7 @@
 # Présentation de la stack du développeur
 
+[![Join the chat at https://gitter.im/adriens/presentation-idd-cloud](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adriens/presentation-idd-cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Présentation de la stack complète du développeur mairie (maven, packages, git,
   repos mvn, test unitaire) et de l'écosystème cloud qui va autour.
 
